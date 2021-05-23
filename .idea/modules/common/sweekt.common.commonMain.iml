@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":common:commonMain" external.linked.project.path="$MODULE_DIR$/../../../common" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.meowbase.toolkit" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false" isTestModule="false" externalProjectId=":common" isHmppProject="$BUILD_DOKKA$" pureKotlinSourceFolders="$MODULE_DIR$/../../../common/src/commonMain/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/androidDebug/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/debug/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/debug/java;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/androidDebugAndroidTest/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/androidDebugUnitTest/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/androidRelease/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/release/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/release/java;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/androidReleaseUnitTest/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/jvmMain/kotlin;/Users/rin/Documents/Develop/Projects/meowool/toolkit/sweekt/common/src/jvmTest/kotlin">
+        <newMppModelJpsModuleKind>SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings />
+        <compilerArguments>
+          <option name="languageVersion" value="1.5" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/androidMain/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../common/src/main/res;file://$MODULE_DIR$/../../../common/src/androidMain/res;file://$MODULE_DIR$/../../../common/src/debug/res;file://$MODULE_DIR$/../../../common/src/androidDebug/res;file://$MODULE_DIR$/../../../common/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../common/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../common/src/androidTest/res;file://$MODULE_DIR$/../../../common/src/androidAndroidTest/res;file://$MODULE_DIR$/../../../common/src/androidTestDebug/res;file://$MODULE_DIR$/../../../common/src/androidAndroidTestDebug/res;file://$MODULE_DIR$/../../../common/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../common/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="$BUILD_DOKKA$">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../common/src/commonMain/kotlin">
+      <sourceFolder url="file://$MODULE_DIR$/../../../common/src/commonMain/kotlin" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../common/src/commonMain/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../../../common/src/commonMain/resources" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:aar:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.transition:transition:aar:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager2:viewpager2:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:aar:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:aar:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:aar:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:aar:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:aar:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:aar:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:aar:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:aar:2.0.0" level="project" />
+  </component>
+</module>

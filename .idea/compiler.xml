@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.6">
+      <module name="sweekt.commonMain" target="1.8" />
+      <module name="sweekt.commonTest" target="1.8" />
+      <module name="sweekt.jvmMain" target="1.8" />
+      <module name="sweekt.jvmTest" target="1.8" />
+      <module name="toolkit-common.commonMain" target="1.8" />
+      <module name="toolkit-common.commonTest" target="1.8" />
+      <module name="toolkit-common.jvmMain" target="1.8" />
+      <module name="toolkit-common.jvmTest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

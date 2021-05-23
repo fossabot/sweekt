@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sweekt.iml" filepath="$PROJECT_DIR$/.idea/modules/sweekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sweekt.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/sweekt.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sweekt.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/sweekt.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sweekt.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sweekt.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sweekt.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/sweekt.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sweekt.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sweekt.jvmTest.iml" />
+    </modules>
+  </component>
+</project>
